@@ -1,12 +1,18 @@
+<div align="center">
+
 # Bartender's Guide to the Galaxy
 
 #### "Team Week Project for Epicodus Coding School following the completion of Intro to Programming & Intermediate JavaScript, 12.03.2020"
 
 #### By _**Jeff Chiu, Bess Campbell, Kevin Kirkley, Mandy Otero, Tawnee Harris, Svea Wade, and Danielle Thompson**_
 
+![Splash Page Preview](src/assets/images/Splash_Page.png)
+
+</div>
+
 ## Description
 
-This application works with the CocktailDB API to pull information for the home bartender to be able to make delicious drinks at home. Search options link to available data in the CocktailDB by drink name or by ingredient. 
+This application works with the CocktailDB API to pull information for the home bartender to be able to make delicious drinks at home. Search options link to available data in the CocktailDB by drink name or by ingredient.
 
 ## Specifications
 
