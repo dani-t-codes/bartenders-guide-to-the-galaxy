@@ -14,6 +14,10 @@
 
 This application works with the CocktailDB API to pull information for the home bartender to be able to make delicious drinks at home. Search options link to available data in the CocktailDB by drink name or by ingredient.
 
+## Live Project
+
+Access the live project by visiting https://dani-t-codes.github.io/bartenders-guide-to-the-galaxy/.
+
 ## Specifications
 
 | Describe: | Input | Output |
@@ -22,8 +26,6 @@ This application works with the CocktailDB API to pull information for the home 
 | should correctly display a list of up to twelve random drinks with selected ingredient | "Dark Rum" | drink = Adam, Bleeding Surgeon, Blue Hurricane, Dark and Stormy, Gideon's Green Dinosaur, Midnight Cowboy, Blueberry Mojito, 155 Belmont, Planter's Punch, Bahama Mama, Almeria, Lord and Lady |
 | getDrinksByName |||
 | should correctly display a list of drinks by name with instructions  | "White Russian" | drink = White Russian. Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve. Use 2 oz Vodka, 1 oz Coffee liqueur
-
-
 
 ## Setup/Installation Requirements
 
@@ -57,7 +59,7 @@ Team Member Email:
 * <kevinmkirkley@gmail.com>
 * <mandystar018@gmail.com>
 * <svealinneawade@gmail.com>
-* <71739178+dani-t-codes@users.noreply.github.com>
+* <danithompson74@gmail.com>
 * <tawneeh@icloud.com>
 
 ## Technologies Used 
@@ -70,8 +72,6 @@ Team Member Email:
 * _JQuery_
 * _JavaScript_
 * _VSCode_
-
-<br></br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
